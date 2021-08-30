@@ -1,3 +1,3 @@
-1 + 1
+z = 1 + 1
 
-1 + "is the loneliest number"
+g = "1" + "is the loneliest number"
